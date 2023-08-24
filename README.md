@@ -1,2 +1,2 @@
-# MangayaBackend
-Backend for Mangareading App - Mangaya
+# MangoBackend
+Backend for Mangareading App - Mango
